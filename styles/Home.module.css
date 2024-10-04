@@ -109,7 +109,7 @@
 }
 
 .postImage {
-    font-size: 50px; /* 이모지 크기 조정 */
+    font-size: 120px; /* 이모지 크기 조정 */
     width: 100%;
     height: 150px; /* 카드 높이 */
     display: flex;
